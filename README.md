@@ -4,4 +4,4 @@ Tugas OOP Multithreading\
 Kelompok :\
 Mohammad varrel bramasta - 2106733811\
 Rakha argya zahran       - 2106733925\
-Enricco Verindra         - 2106651793\
+Enricco Verindra         - 2106651793
